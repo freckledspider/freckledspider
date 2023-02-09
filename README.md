@@ -22,3 +22,5 @@ const bri = {
 
 <p align="center"><b><i>“The creation of a single world comes from a huge number of fragments and chaos.”</i></b>
 <i>― Hayao Miyazaki</i></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=freckledspider&show_icons=true&theme=panda" /></p>
