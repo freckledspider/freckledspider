@@ -6,8 +6,8 @@
 ```javascript
 const bri = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Node, Express, Styled-Components, MongoDB, Mongoose],
+  languages: [Javascript, HTML, CSS, Python, SQL],
+  tools: [React, Node, Express, Styled-Components, MongoDB, Mongoose, Django],
   hobbies: {
                         "art": ["drawing", "painting", "digital", "design"],
                         "video games": ["Nintendo", "PC", "MMORPG's"],
