@@ -7,7 +7,7 @@
 const bri = {
   pronouns: "she" | "her",
   languages: [Javascript, HTML, CSS, Python, SQL],
-  tools: [React, Node, Express, Styled-Components, MongoDB, Mongoose, Django],
+  tools: [React, Node, Express, Styled-Components, MongoDB, Mongoose, Django, Vue],
   hobbies: {
                         "art": ["drawing", "painting", "digital", "design"],
                         "video games": ["Nintendo", "PC", "MMORPG's"],
@@ -17,6 +17,7 @@ const bri = {
 }
 ```
 <p align="center">I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b><br>
+<a href="https://briannecamesidev.netlify.app/" target="_blank">Portfolio</a> | 
 <a href="https://www.linkedin.com/in/briannecamesi/" target="_blank">LinkedIn</a> | <a href="mailto:brianne.camesi@gmail.com">brianne.camesi@gmail.com</a></p>
 <p align="center"><img src="https://media1.giphy.com/media/3TZgJXiwbdbLG/giphy.gif" width="500"></p>
 
